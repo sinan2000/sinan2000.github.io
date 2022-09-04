@@ -1,0 +1,23 @@
+1. Aplicatie Serhad Factura - Python + SQLite    PYKT SAU TKINTER
+SQL - Tables
+1. Marfa: ID(cod BK), Nume(Baclava, Burek etc), Pret(/kg sau buc)
+2. Client: ID, Nume, Adresa
+3. Comanda: ID, ???
+
+2. Aplicatie Java model de la faculta - Java + PostgreSQL
+
+3. A BitTorrent client in Python 3.5 - Python
+
+4. Stock Market Predictions with LSTM in Python - Python
+
+5. Facial Recognition with Saving name of face and displaying at final?? - Python
+//Python: Building a Facial Recognition Pipeline with Deep Learning in Tensorflow
+daca nu fac Web Crawling sau modific aplicatia de geolocation
+
+6. Cryptocurrency on blockchain - Java/Python
+
+7. Python Data Visualization with graphs - pandas,numpy,matplotlib
+
+8. joc cu pygame si apoi joci cu un bot(ai) - python
+
+9.
